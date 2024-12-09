@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.8.0 (sftp://sslee@10.5.0.234:22/home/sslee/anaconda3/envs/QR-DQN/bin/python3.8)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="QR-DQN" project-jdk-type="Python SDK" />
+</project>
